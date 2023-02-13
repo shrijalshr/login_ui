@@ -2,7 +2,8 @@
 
 A Flutter project with Login Screen on display.
 
-![Alt text](assets\readme\login_ui.png?raw=true "Login Ui")
+![login_ui](https://user-images.githubusercontent.com/61979922/218386284-8adae55c-700d-455e-98f3-fab257df98a1.png)
+
 
 Packages Used:
 <strong>provider</strong>
